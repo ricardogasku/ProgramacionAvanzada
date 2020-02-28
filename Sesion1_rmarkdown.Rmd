@@ -40,6 +40,6 @@ vv <- rep(1:20,200)
 summary(vv)
 boxplot(vv,main="my vector")
 ```
-
+*ERES UN PRINGAO*
 
 esto se escribe en markdown `r mean(vv)`
